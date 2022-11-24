@@ -1,0 +1,14 @@
+/* eslint-disable */
+
+@charset "UTF-8";
+
+//global
+@import 'global/variables';
+@import 'global/mixins';
+@import 'global/index';
+@import 'global/reset';
+
+//layouts
+@import 'layouts/footer';
+@import 'layouts/header';
+
